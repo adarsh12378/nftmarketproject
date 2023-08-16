@@ -1,7 +1,7 @@
 
 import axios from 'axios'
 import styles from './page.module.css'
-import TableData from './NftData/page'
+import TableData from './NftData/table'
 
 
 
